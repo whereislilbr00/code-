@@ -1,4 +1,3 @@
-# code-
  (Project c)
 
 #### Date, 2024/03/31
